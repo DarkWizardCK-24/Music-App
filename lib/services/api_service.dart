@@ -1,9 +1,10 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:music/models/song_model.dart';
 
 class ApiService {
-  static const String baseUrl = 'https://itunes.apple.com/search';
+  final String baseUrl = dotenv.env['API_URL'] ?? "";
 
   Future<List<Song>> searchSongs({
     required String term,
