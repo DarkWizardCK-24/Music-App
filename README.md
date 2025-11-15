@@ -48,15 +48,28 @@ The app features a beautiful blue color scheme:
 - **Accent Blue**: `#03A9F4`
 
 
-## 📱 Screenshots Flow
+## 📸 App Screenshots
 
-1. **Home Screen** → Shows song list with search
-   ![App Screenshot](assets/images/Caputure1.png)
-
-2. **Tap on Song** → Navigate to detail screen
-3. **Play Preview** → Listen to song preview
-4. **Add to Favorites** → Save song locally
-5. **View Favorites** → Access from toolbar icon
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/images/homescreen.png" width="250px" /><br/>
+      <b>Home Screen</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/detailscreen.png" width="250px" /><br/>
+      <b>Detail Screen</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/detailscreen1.png" width="250px" /><br/>
+      <b>Detail Screen 2</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/favourite.png" width="250px" /><br/>
+      <b>Favorites</b>
+    </td>
+  </tr>
+</table>
 
 
 ## 💾 Local Storage
