@@ -51,6 +51,8 @@ The app features a beautiful blue color scheme:
 ## 📱 Screenshots Flow
 
 1. **Home Screen** → Shows song list with search
+   ![App Screenshot](assets/images/Caputure1.png)
+
 2. **Tap on Song** → Navigate to detail screen
 3. **Play Preview** → Listen to song preview
 4. **Add to Favorites** → Save song locally
